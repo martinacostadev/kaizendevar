@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizendevar&label=Profile%20views&color=0e75b6&style=flat" alt="kaizendevar" /> </p>
 
-🔭 Estoy trabajando con **C# .NET, HTML, Boostrap y 📱 Aplicación Móvil con Ionic Angular con bases SQL**
+🔭 Estoy trabajando con **C# .NET, HTML, Bootstrap y 📱 Aplicación Móvil con Ionic Angular con bases SQL**
 
 🔀 Control de Version Git y Team Foundation Server
 
