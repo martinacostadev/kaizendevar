@@ -17,8 +17,6 @@
 
 ❤️ Me encanta aprender **sobre programación en general.**
 
-⚡ Fun fact: **Me gusta cantar, bailar y reírme mucho. ✨**
-
 ✔️ Trabajé con **Visual Fox Pro, Wordpress, Codeigniter, Laravel, MySQL.**
 
 <h3 align="left">Contactame en:</h3>
